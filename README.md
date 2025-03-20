@@ -8,7 +8,7 @@ This software package includes several Matlab scripts and auxiliary functions, w
 2) Running `run_main.m` will automatically generate a synthetic dataset and run analysis. It typically takes about a day to get enough samples.
 3) We are working on Bayes-smRD's documentation and highly encourage you to reach out to us at: <weiqing1@asu.edu>, or <spresse@asu.edu>
 4) This code is developed and tested in Matlab R2022a.
-5) This code includes Matlab MEX functions compiled with GCC and Linux, for other platforms, please reach out to us, and we will be happy to provide source files of these functions!
+5) This code includes Matlab MEX functions compiled with GCC and Linux, for other platforms please check the [next section](#other-operating-systems).
 
 ## Other Operating Systems
 
